@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DCRA Inspector App
+title: 
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
