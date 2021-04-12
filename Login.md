@@ -15,7 +15,7 @@ email: contact@eastbanctech.com
 
 ![Login3](https://user-images.githubusercontent.com/81990744/114445707-62d20080-9b9e-11eb-8ab6-bb971695773c.png)
 
-## **Once clicking OK or Not Now button Inspectors will see the Schedule/Calendar view as seen below.**
+## **Once clicking OK or Not Now button Inspectors will see the Schedule view as seen below.**
 
 ![login4 png](https://user-images.githubusercontent.com/81990744/114449187-75e6cf80-9ba2-11eb-97a6-66b87ba15da6.jpg)
 
