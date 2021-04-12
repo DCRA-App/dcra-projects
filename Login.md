@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Login
+title: Login and Logout
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
