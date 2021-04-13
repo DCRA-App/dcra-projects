@@ -41,6 +41,13 @@ Assignment Details
 
 
 
+Reschduling an Assignment
+![re1](https://user-images.githubusercontent.com/81990744/114633833-4bbf0b80-9c8f-11eb-8180-3d6cb1c38469.png)
+![re2](https://user-images.githubusercontent.com/81990744/114633841-4eb9fc00-9c8f-11eb-9893-dcadde215ebd.png)
+![Re3](https://user-images.githubusercontent.com/81990744/114633847-51b4ec80-9c8f-11eb-9351-a51f38212d70.png)
+![Re4](https://user-images.githubusercontent.com/81990744/114633853-54afdd00-9c8f-11eb-95ea-24c6586b0bcd.png)
+![Re5](https://user-images.githubusercontent.com/81990744/114633860-57123700-9c8f-11eb-9812-a86e0cc7f8c2.png)
+
 
 
 
