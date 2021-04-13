@@ -29,5 +29,18 @@ Profile and About
 ![pro2](https://user-images.githubusercontent.com/81990744/114630603-f97aec00-9c88-11eb-8808-b029ab434197.png)
 
 
+Assignment Details 
+
+![Assignment1](https://user-images.githubusercontent.com/81990744/114631979-a9e9ef80-9c8b-11eb-9b4a-12bfbe4c19df.png)
+![assignment1](https://user-images.githubusercontent.com/81990744/114631991-ae160d00-9c8b-11eb-82d9-e1b4695fb13b.png)
+![Assignment2](https://user-images.githubusercontent.com/81990744/114631996-b110fd80-9c8b-11eb-801c-4d527d5acaff.png)
+![Assignment3](https://user-images.githubusercontent.com/81990744/114632004-b4a48480-9c8b-11eb-8548-8e07d29299d0.png)
+![assignment3](https://user-images.githubusercontent.com/81990744/114632006-b706de80-9c8b-11eb-8dde-593562e562b9.png)
+![Assignment4](https://user-images.githubusercontent.com/81990744/114632038-c84feb00-9c8b-11eb-9b37-d0955372679f.png)
+
+
+
+
+
 
 
