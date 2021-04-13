@@ -1,3 +1,6 @@
+Adding and Deleting an Abesnce
+
+
 ![Ab1](https://user-images.githubusercontent.com/81990744/114568257-fa3c5f80-9c41-11eb-92a6-3f2fe9491b3c.png)
 ![ab2](https://user-images.githubusercontent.com/81990744/114568271-fc062300-9c41-11eb-8e1c-a706b980e5fb.png)
 ![ab3](https://user-images.githubusercontent.com/81990744/114568281-fdcfe680-9c41-11eb-9c42-4414531c0dff.png)
@@ -19,4 +22,9 @@
 ![Ab7](https://user-images.githubusercontent.com/81990744/114572449-7e441680-9c45-11eb-83f4-58a0c671c2d6.png)
 ![Ab9](https://user-images.githubusercontent.com/81990744/114572978-f6aad780-9c45-11eb-948a-1dd4488c2604.png)
 
-Adding and Deleting an Abesnce
+Profile and About 
+![pro1](https://user-images.githubusercontent.com/81990744/114576009-bdc03200-9c48-11eb-98ee-059cb3c951f4.png)
+![Pro2](https://user-images.githubusercontent.com/81990744/114576055-ca448a80-9c48-11eb-87c7-d4a9e89a2f8c.png)
+![Pro3](https://user-images.githubusercontent.com/81990744/114576080-ce70a800-9c48-11eb-9b3e-2db9b37ce1d0.png)
+
+
