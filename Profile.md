@@ -18,6 +18,5 @@ title: How to View Profile and About Page
 
 ![pro2](https://user-images.githubusercontent.com/81990744/114630603-f97aec00-9c88-11eb-8808-b029ab434197.png)
 
-## **You will land on About Page**
 
 ![Pro3](https://user-images.githubusercontent.com/81990744/114576080-ce70a800-9c48-11eb-9b3e-2db9b37ce1d0.png)
