@@ -2,7 +2,7 @@
 layout: page
 title: How to Cancel an Assignment
 ---
-How to Cancel an Assignment <a name= "How-to-Cancel-an-Assignment"></a>
+How to Cancel an Assignment <a name= "-How-to-Cancel-an-Assignment"></a> 
 
 ## **Click on Assignment tab on the menu bar**
 
