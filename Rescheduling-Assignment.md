@@ -4,7 +4,7 @@ title: How to Reschedule an Assignment
 ---
 
 
-Reschduling an Assignment
+
 
 ## **Click on Assignment Tab on the menu bar**
 
