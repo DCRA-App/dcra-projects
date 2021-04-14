@@ -22,6 +22,10 @@ Adding and Deleting an Abesnce
 ![Ab7](https://user-images.githubusercontent.com/81990744/114572449-7e441680-9c45-11eb-83f4-58a0c671c2d6.png)
 ![Ab9](https://user-images.githubusercontent.com/81990744/114572978-f6aad780-9c45-11eb-948a-1dd4488c2604.png)
 
+![ab11](https://user-images.githubusercontent.com/81990744/114728656-47d1ce80-9d0d-11eb-86e0-46d335fd2775.png)
+![ab12](https://user-images.githubusercontent.com/81990744/114728683-4dc7af80-9d0d-11eb-9360-59ce49fa5ee5.png)
+
+
 Profile and About 
 ![pro1](https://user-images.githubusercontent.com/81990744/114576009-bdc03200-9c48-11eb-98ee-059cb3c951f4.png)
 ![Pro2](https://user-images.githubusercontent.com/81990744/114576055-ca448a80-9c48-11eb-87c7-d4a9e89a2f8c.png)
