@@ -47,6 +47,21 @@ Reschduling an Assignment
 ![Re3](https://user-images.githubusercontent.com/81990744/114633847-51b4ec80-9c8f-11eb-9351-a51f38212d70.png)
 ![Re4](https://user-images.githubusercontent.com/81990744/114633853-54afdd00-9c8f-11eb-95ea-24c6586b0bcd.png)
 ![Re5](https://user-images.githubusercontent.com/81990744/114633860-57123700-9c8f-11eb-9812-a86e0cc7f8c2.png)
+![Re6](https://user-images.githubusercontent.com/81990744/114634851-727e4180-9c91-11eb-8606-f908423360df.png)
+
+
+Cancelling an Assignment
+![can1](https://user-images.githubusercontent.com/81990744/114635483-d3f2e000-9c92-11eb-8493-267435637748.png)
+![can2](https://user-images.githubusercontent.com/81990744/114635486-d6553a00-9c92-11eb-8cd2-540753f245fc.png)
+![can3](https://user-images.githubusercontent.com/81990744/114635496-da815780-9c92-11eb-898b-b768d5d35a5c.png)
+![can4](https://user-images.githubusercontent.com/81990744/114635534-ebca6400-9c92-11eb-8eb1-7f0058be2223.png)
+![Can5](https://user-images.githubusercontent.com/81990744/114635556-f4229f00-9c92-11eb-901f-2c70c0ea69b7.png)
+![Can6](https://user-images.githubusercontent.com/81990744/114635562-f71d8f80-9c92-11eb-946d-e8f10e17c005.png)
+![Can7](https://user-images.githubusercontent.com/81990744/114635572-fb49ad00-9c92-11eb-9355-088564155acf.png)
+![Can8](https://user-images.githubusercontent.com/81990744/114635576-fdac0700-9c92-11eb-97c4-1d9eccf1b94d.png)
+
+
+
 
 
 
