@@ -44,7 +44,7 @@ title: Adding and Deleting Absence
 ![ab10](https://user-images.githubusercontent.com/81990744/114568339-09bba880-9c42-11eb-98d5-23f230367b5c.png)
 
 
-## **If the user wants to report an absence for All Day enter/type a "Title" for your absence. Then turn the "All Day toggle" switch on and select the date and click on the + icon. The Absence will be displayed in the Schedule All Day**
+## **If the user wants to report an absence for All Day enter/type a "Title" for your absence. Then turn the "All Day" toggle switch on. Then select the date and click on the + icon. The Absence will be displayed in the Schedule All Day**
 
 
 ![ab11](https://user-images.githubusercontent.com/81990744/114728656-47d1ce80-9d0d-11eb-86e0-46d335fd2775.png)
@@ -57,5 +57,5 @@ title: Adding and Deleting Absence
 ## **Go to the Schedule and locate and click on "Absence", then click on "Delete Absence" Button, system shall delete the absence from the Schedule.**
 
 
-![ab11](https://user-images.githubusercontent.com/81990744/114568344-0b856c00-9c42-11eb-8c7f-e9125f65cbc5.png
+![ab11](https://user-images.githubusercontent.com/81990744/114568344-0b856c00-9c42-11eb-8c7f-e9125f65cbc5.png)
 ![ab12](https://user-images.githubusercontent.com/81990744/114568357-0cb69900-9c42-11eb-9060-c1ae0ce4dd72.png)
