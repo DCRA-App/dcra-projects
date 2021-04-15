@@ -33,6 +33,8 @@ Profile and About
 ![pro2](https://user-images.githubusercontent.com/81990744/114630603-f97aec00-9c88-11eb-8808-b029ab434197.png)
 
 
+
+
 Assignment Details 
 
 ![Assignment1](https://user-images.githubusercontent.com/81990744/114631979-a9e9ef80-9c8b-11eb-9b4a-12bfbe4c19df.png)
@@ -52,6 +54,13 @@ Reschduling an Assignment
 ![Re4](https://user-images.githubusercontent.com/81990744/114633853-54afdd00-9c8f-11eb-95ea-24c6586b0bcd.png)
 ![Re5](https://user-images.githubusercontent.com/81990744/114633860-57123700-9c8f-11eb-9812-a86e0cc7f8c2.png)
 ![Re6](https://user-images.githubusercontent.com/81990744/114634851-727e4180-9c91-11eb-8606-f908423360df.png)
+![re14](https://user-images.githubusercontent.com/81990744/114879599-58e31400-9dcf-11eb-92eb-1eea9c62d88f.png)
+![re15](https://user-images.githubusercontent.com/81990744/114879652-64363f80-9dcf-11eb-8e51-a1e897e75034.png)
+![re12](https://user-images.githubusercontent.com/81990744/114879685-6bf5e400-9dcf-11eb-913b-54995fc63ad5.png)
+![re13](https://user-images.githubusercontent.com/81990744/114879710-71ebc500-9dcf-11eb-83ef-8e632f4e0f6b.png)
+
+
+
 
 
 Cancelling an Assignment
